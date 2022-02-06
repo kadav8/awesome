@@ -14,7 +14,7 @@
 
 [MUI](https://mui.com/getting-started/installation/)
 
-[Ant Design of React - Ant Design](https://ant.design/docs/react/introduce)
+[Ant Design](https://ant.design/docs/react/introduce)
 
 [Semantic UI React](https://react.semantic-ui.com/)
 
