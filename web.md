@@ -8,12 +8,6 @@
 
 [Svelte](https://svelte.dev/)
 
-[SolidJS](https://www.solidjs.com/)
-
-[Preact](https://preactjs.com/)
-
-[Alpine.js](https://alpinejs.dev/)
-
 ### Backend frameworks
 
 [Node.js](https://nodejs.org/en/)
